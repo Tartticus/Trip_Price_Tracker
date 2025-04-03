@@ -21,7 +21,7 @@ interface Coordinates {
 
 const cityCoordinates: Record<string, Coordinates> = {
   'Chicago, IL': { lat: 41.8781, lng: -87.6298 },
-  'Miami, FL': { lat: 25.7617, lng: -80.1918 },
+  'Mexico City, MX': { lat: 25.7617, lng: -80.1918 },
   'Vancouver, Canada': { lat: 49.2827, lng: -123.1207 },
   'Los Angeles, CA (hometown)': { lat: 34.0522, lng: -118.2437 },
   'Wroclaw, Poland': { lat: 51.1079, lng: 17.0385 },
